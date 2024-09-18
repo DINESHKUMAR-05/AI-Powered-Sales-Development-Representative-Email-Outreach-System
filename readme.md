@@ -51,7 +51,7 @@ Contains sensitive credentials:
 - **Gmail app password** for SMTP access.
 - **Sender's and receiver's email IDs**.
 
-To obtain the API key for **Gemini**, visit [Google AI Studios](https://aistudios.google.com), and for Gmail app passwords, visit [Google Account Settings](https://myaccount.google.com).
+To obtain the API key for **Gemini**, visit [Google AI Studios](https://aistudio.google.com/), and for Gmail app passwords, visit [Google Account Settings](https://myaccount.google.com).
 
 ---
 
