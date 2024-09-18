@@ -75,6 +75,7 @@ The multi-agent system is built using the **CrewAI** framework. Each agent in th
    - Gemini API Key
    - App Password for mail access
    - mail id for sender and reciever
+     
 3. Run the Streamlit app:
    ```
    streamlit run app.py
